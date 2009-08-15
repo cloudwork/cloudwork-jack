@@ -1,0 +1,6 @@
+{
+    "name": "cloudwork",
+    "author": "Neville Burnell",
+    "dependencies": ["narwhal", "jack"],
+    "jars": []
+}
